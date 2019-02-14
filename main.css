@@ -1,0 +1,91 @@
+/* --- resets --- */
+
+html {
+  font: 100%/1.15 serif, verdana, sans-serif;
+}
+
+dl {
+  text-align: center;
+  color: #641E16;
+  font-size: 1em;
+}
+
+dd {
+    margin-left: 0;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30em;
+  max-width: 100%;
+}
+
+.hero {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+.hero figcaption {
+  text-align: right;
+  margin-top: .25em;
+  color: #641E16;
+}
+
+a,
+.accent {
+  color: #BA4A00;
+}
+
+html {
+  background-color: #935116;
+}
+
+body {
+  max-width:48rem;
+  padding-left: 0;
+  padding: 1.5rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+main {
+  background-color: #E59866;
+  border: .5em double #F7F1ED;
+}
+
+h1 {
+  font-size: 2.5em;
+  text-align: center;
+  color: #641E16;
+}
+
+h2 {
+  text-align: left;
+  color: #641E16;
+  padding-left: 1em;
+}
+
+p {
+  text-align: center;
+  color: #641E16;
+  font-size: 1.1em;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+p {
+  line-height: 1.35;
+  margin-top: 1em;
+}
+
+ul {
+  color: #641E16;
+  font-size: 1.1em;
+}
+
+ol {
+  color: #641E16;
+  font-size: 1.1em;
+}
